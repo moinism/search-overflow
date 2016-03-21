@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SO Panel</title>
+
+	<link href="assets/css/grid.css" rel="stylesheet" />
+	<link href="assets/css/style.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Source+Code+Pro:300">
+</head>
+<body>
+
+	<div class="grid control">
+		<div class="unit two-fifths">
+			<form id="search">
+				<input type="search" id="q" tabindex="1" placeholder="Search Stack Overflow" />
+			</form>
+		</div>
+		<div class="unit three-fifths">
+			<small class="so-credit" title="Stack Overflow">
+				<span class="hide-on-mobiles">powered by </span><a href="https://stackoverflow.com?utm_source=search%20overflow%20(chrome)" tabindex="-1" target="_blank">
+					<img src="assets/img/so-icon.ico" class="so-icon" />
+				</a>
+			</small>
+		</div>
+	</div>
+	<div class="grid content">
+		<div class="unit two-fifths">
+			<div id="result" tabindex="2"></div>
+		</div>
+		<div class="unit three-fifths">
+			<div id="bodyText" tabindex="3"></div>
+		</div>
+	</div>
+
+<script src="assets/js/jq.js"></script>
+<script src="assets/js/highlight.min.js"></script>
+<script src="assets/js/panel.js"></script>
+</body>
+</html>
