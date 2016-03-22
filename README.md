@@ -15,3 +15,4 @@ Browser extension that lets you search Stack Overflow from within the DevTools.
 
   - Add task runner. i.e: Grunt or Gulp
   - Solve Issue #1
+  - Port it to Angular (or React?)
