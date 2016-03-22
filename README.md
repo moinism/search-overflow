@@ -1,7 +1,7 @@
 # Search Overflow
 Browser extension that lets you search Stack Overflow from within the DevTools.
 
-![screenshot](screenshot.jpg)
+![screenshot](search-overflow.gif)
 
 ## Features:
 - instant searching
