@@ -1,0 +1,6 @@
+{
+  "name": "Search-overflow",
+  "tagline": "Browser extension that lets you search Stack Overflow from within the DevTools.",
+  "body": "# Search Overflow\r\nBrowser extension that lets you search Stack Overflow from within the DevTools.\r\n\r\n![screenshot](search-overflow.gif)\r\n\r\n## Features:\r\n- instant searching\r\n- complete QA data with code snippets\r\n- arrow key navigation:\r\n  - Left-Right to switch between panes\r\n  - Up-Down to move between questions\r\n\r\n\r\n### Todo:\r\n\r\n  - Add task runner. i.e: Grunt or Gulp\r\n  - Solve Issue #1\r\n  - Port it to Angular (or React?)\r\n\r\n\r\n### Credit:\r\n  - QA Icon by [Sergey Novosyolov](https://thenounproject.com/sergey.novosyolov/) from the Noun Project\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
