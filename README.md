@@ -1,6 +1,8 @@
 # Search Overflow
 Browser extension that lets you search Stack Overflow from within the DevTools.
 
+Available on [Chrome](https://chrome.google.com/webstore/detail/search-overflow/mnjjnlpfohojhebjajehppdpepmhidnc)
+
 ![screenshot](search-overflow.gif)
 
 ## Features:
@@ -13,10 +15,11 @@ Browser extension that lets you search Stack Overflow from within the DevTools.
 
 ### Todo:
 
-  - Add task runner. i.e: Grunt or Gulp
-  - Solve Issue #1
-  - Port it to Angular (or React?)
+  - [ ] Add task runner. i.e: Grunt or Gulp
+  - [ ] Solve Issue #1
+  - [ ] Port it to Angular (or React?)
 
 
 ### Credit:
+  - Using Stack Exchange API
   - QA Icon by [Sergey Novosyolov](https://thenounproject.com/sergey.novosyolov/) from the Noun Project
