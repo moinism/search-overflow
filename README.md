@@ -1,7 +1,7 @@
 # Search Overflow
 Browser extension that lets you search Stack Overflow from within the DevTools.
 
-Available on [Chrome](https://chrome.google.com/webstore/detail/search-overflow/mnjjnlpfohojhebjajehppdpepmhidnc)
+[![Chrome webstore](external assets/badge.png)](https://chrome.google.com/webstore/detail/search-overflow/mnjjnlpfohojhebjajehppdpepmhidnc)
 
 ![screenshot](search-overflow.gif)
 
