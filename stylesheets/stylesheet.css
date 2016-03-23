@@ -459,7 +459,7 @@ header h1 {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 72px;
+  font-size: 60px;
   font-weight: normal;
   line-height: 1;
   color: #fff;
@@ -544,6 +544,7 @@ aside a.button {
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
+
 
 code, pre {
   margin-bottom: 30px;
